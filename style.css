@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h3 , a{
+    color: brown;
+    margin-left: 50px;
+}
+
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px 40px;
+    margin-left: 10px;
+    width: 450px;
+    text-align: center;
+   
+}
+.n1,.n2,.n3,.n4,.n5,.n6,.n7,.n8,.n9{
+    color: white;
+}
+.n1{
+    background-color: rgb(33, 161, 161);
+}
+.n2{
+    background-color: rgb(196, 56, 56);
+}
+.n3{
+    background-color: rgb(56, 116, 228);
+}
+.n4{
+    background-color: chartreuse;
+}
+.n5{
+    background-color: blueviolet;
+}
+.n6{
+    background-color: rgb(219, 122, 52);
+}
+.n7{
+    background-color: coral;
+}
+.n8{
+    background-color: rgb(80, 60, 10);
+}
+.n9{
+    background-color: rgb(33, 20, 119);
+} 
